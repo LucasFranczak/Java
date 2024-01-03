@@ -6,7 +6,7 @@ public class Cliente {
     private String nome;
     private String endereco;
 
-
+    
     public int getCodigo() {
         return codigo;
     }
