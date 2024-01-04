@@ -1,7 +1,11 @@
+import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Deque;
 import java.util.List;
+import java.util.PriorityQueue;
+import java.util.Queue;
 import java.util.Scanner;
 
 public class App {
@@ -68,6 +72,12 @@ public class App {
         // para ordenar uma lista
         Collections.sort(lista);
 
+        // QUEUE (FIFO)
+        Queue<String> queue = new PriorityQueue<String>();
+
+        // Dique - pega em diferentes posiçoes da fila
+        Deque <String> ad = new ArrayDeque<>();
+        
 
     }
 }   
