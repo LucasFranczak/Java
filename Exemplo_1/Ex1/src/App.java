@@ -55,14 +55,14 @@ public class App {
 
        //Switch, Case e Default
        //O switch verifica uma variável e age de acordo com os seus casos. Exemplo.
-        SWITCH (variável) {
-            CASE valor :
-                   //cod Código a ser executado caso o valor de case seja o mesmo da variável de switch.
-	            break;
-            CASE valor:
+//        SWITCH (variável) {
+//            CASE valor :
+//                   //cod Código a ser executado caso o valor de case seja o mesmo da variável de switch.
+//	            break;
+//            CASE valor:
 	              //outro código;
-	            break;
-        }
+//	            break;
+//        }
 
         //LISTAS\\
         //ArrayList: É como um array cujo tamanho pode crescer. A busca de um elemento é rápida, mas inserções e exclusões não são.
